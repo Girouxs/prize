@@ -1,0 +1,10 @@
+D:\prize\prize\bin\Debug\prize.exe.config
+D:\prize\prize\bin\Debug\prize.exe
+D:\prize\prize\bin\Debug\prize.pdb
+D:\prize\prize\obj\Debug\prize.csprojResolveAssemblyReference.cache
+D:\prize\prize\obj\Debug\prize.Form1.resources
+D:\prize\prize\obj\Debug\prize.Properties.Resources.resources
+D:\prize\prize\obj\Debug\prize.csproj.GenerateResource.Cache
+D:\prize\prize\obj\Debug\prize.exe
+D:\prize\prize\obj\Debug\prize.pdb
+D:\prize\prize\bin\Debug\name.txt
